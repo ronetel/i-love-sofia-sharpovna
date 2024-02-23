@@ -1,0 +1,23 @@
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24_MarkupCompile.cache
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24_MarkupCompile.lref
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\new pr 2.24.exe
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\new pr 2.24.deps.json
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\new pr 2.24.runtimeconfig.json
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\new pr 2.24.dll
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\new pr 2.24.pdb
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.g.resources
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.AssemblyInfoInputs.cache
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.AssemblyInfo.cs
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.csproj.CoreCompileInputs.cache
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.dll
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\refint\new pr 2.24.dll
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.pdb
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.genruntimeconfig.cache
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\ref\new pr 2.24.dll
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.csproj.AssemblyReference.cache
+C:\Users\ronetel\source\repos\кайф\new pr 2.24\new pr 2.24\obj\Debug\net8.0-windows\new pr 2.24.csproj.CopyComplete
